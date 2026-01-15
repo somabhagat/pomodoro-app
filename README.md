@@ -27,17 +27,16 @@ A clear, premium-designed Pomodoro timer web application to help with focus sess
 Verification was confirmed manually and recorded. The application loads correctly, styles are applied, and the timer logic functions as expected.
 
 ### Video Demonstration
-![Verification Session](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/pomodoro_verification_video_1768151925749.webp)
+![Verification Session](pomodoro_verification_video_1768151925749.webp)
 
 ### State Screenshots
-````carousel
-![Timer Running](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/pomodoro_running_1768151999143.png)
+![Timer Running](pomodoro_running_1768151999143.png)
 <!-- slide -->
-![Timer Paused](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/pomodoro_paused_1768152018243.png)
+![Timer Paused](pomodoro_paused_1768152018243.png)
 <!-- slide -->
-![Timer Reset](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/pomodoro_reset_1768152031255.png)
+![Timer Reset](pomodoro_reset_1768152031255.png)
 <!-- slide -->
-![Custom 1 Min](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/timer_custom_1min_png_1768152652008.png)
+![Custom 1 Min](timer_custom_1min_png_1768152652008.png)
 <!-- slide -->
-![Custom 5 Min](file:///C:/Users/bhaga/.gemini/antigravity/brain/a850cd66-54bb-4334-b4b0-2c65ff8bd81e/timer_custom_5min_png_1768152708487.png)
-````
+![Custom 5 Min](timer_custom_5min_png_1768152708487.png)
+
